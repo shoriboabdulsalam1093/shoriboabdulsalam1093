@@ -4,6 +4,7 @@
 
 - <b>Excel Data Analysis and Dashboards</b>
   - [Coffee Shop Sales Analysis ](https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis)
+  - [Maven Marketing Data Analysis ](https://github.com/shoriboabdulsalam1093/Maven-Marketing-Data-Analysis)
 - <b>Data Analysis with SQL (Database managementand Machine Learning Components)</b>
   - [Netflix Movies and TV shows Data Analysis](https://github.com/shoriboabdulsalam1093/Netflix-Movies-and-TV-shows-Analysis)
 - <b>Excel + SQL Projects </b>
